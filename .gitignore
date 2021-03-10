@@ -27,6 +27,7 @@ Rascunho/
 *.class
 *.jar
 *.war
+*.nar
 *.ear
 
 # Gradle
@@ -56,6 +57,9 @@ bin/
 .idea/
 out/
 
+# BlueJ files
+*.ctxt
+
 # SASS
 .sass-cache/
 
@@ -79,6 +83,11 @@ _site
 
 # Fortran
 *.mod
+
+# Pacote
+*.zip
+*.tar.gz
+*.rar
 
 # Logs
 *.log
