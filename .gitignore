@@ -76,7 +76,10 @@ _site
 *.pch
 
 # Python
-*.pyc
+*.py[cod]
+*$py.class
+__pycache__/
+.ipynb_checkpoints
 
 # R
 .Rhistory
